@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vish</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<h1 align="center">Hello👋, I'm Vish</h1>
 <h3 align="center">Business Intelligence Professional | Big Data Analytics | AI & ML Enthusiast | Leveraging Data to solve Business Problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bronzeknuckles&label=Profile%20views&color=0e75b6&style=flat" alt="bronzeknuckles" /> </p>
@@ -7,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Cloud Computing**
 
-- 📫 How to reach me **https://www.linkedin.com/in/vishal-shah-a1230718b/**
+- 📫 How to reach me **vishal.shah7aug@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
