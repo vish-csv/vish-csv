@@ -2,13 +2,17 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hello👋, I'm Vish</h1>
-<h3 align="center">Business Intelligence Professional | Big Data Analytics | AI & ML Enthusiast | Leveraging Data to solve Business Problems</h3>
+<h3 align="center">Business Intelligence Professional | Big Data Analytics | AI & ML Enthusiast </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bronzeknuckles&label=Profile%20views&color=0e75b6&style=flat" alt="bronzeknuckles" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bronzeknuckles&label=Profile%20views&color=0e75b6&style=flat" alt="vish" /> </p>
 
-- 🔭 I’m currently working on **PL-300 Certification :: Microsoft PowerBI Analyst**
+- 📚 I'm currently studying **Business Analytics** at St Lawrence College, Kingston
 
-- 🌱 I’m currently learning **Machine Learning and Cloud Computing**
+- 🔭 I’m currently working on **PL-300 Certification : Microsoft PowerBI Analyst**
+
+- 🌱 I’m currently enjoying learning **Machine Learning and Cloud Computing**
+
+- 🎾🏐 I enjoy playing Tennis & Volleyball in my downtime 
 
 - 📫 How to reach me **vishal.shah7aug@gmail.com**
 
@@ -26,7 +30,8 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/> </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png?20190925171014" alt="Excel" width="40" height="40"/> </a>
 </p>
 
 
